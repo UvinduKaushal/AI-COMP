@@ -1,0 +1,151 @@
+[
+    {
+        "query_id": "5",
+        "question": "What were the key developments in the coal industry during the Industrial Revolution?",
+        "context": "There are so many coal mines in Britain. South Wales, Yorkshire, Lancashire are some places where coal mines are situated... Thomas Newcomen invented a steam engine in 1735 to pump water... James Watt developed this to a new steam engine in 1736... Humphry Davy produced the safety lamp in 1812... In 1839, a method was found to take coal out of the mines using iron cables instead of copper.",
+        "answer": "Key developments included steam engines for mining, safety lamps, iron cables, and using coal by-products in various industries.",
+        "references": {
+            "sections": [
+                "Coal Industry"
+            ],
+            "pages": [
+                "5",
+                "6"
+            ]
+        }
+    },
+    {
+        "query_id": "9",
+        "question": "How did the Industrial Revolution affect Sri Lanka?",
+        "context": "British people came to Sri Lanka and started mega scale cultivations. Many factories were started in connection to thus started cultivations such as tea, coconut, rubber and machines were imported from Britain to be used in those factories. Roads and railways were introduced... the Colombo–Kandy road was constructed... railway was started in 1858... postal system in 1815.",
+        "answer": "Sri Lanka experienced estate-based industrialization, transport and communication development, and growth of a working and capitalist class.",
+        "references": {
+            "sections": [
+                "1.3 Effects of the Industrial Revolution on Sri Lanka"
+            ],
+            "pages": [
+                "17",
+                "18"
+            ]
+        }
+    },
+    {
+        "query_id": "13",
+        "question": "Why did the British implement the dual administration system in Sri Lanka, and why did it fail?",
+        "context": "This system of administration was known as ‘dual administration.’ This system continued from 1798 to 1802. The officers of the Trade Company in Sri Lanka did not give enough support to the governor, North. Due to such failures in the dual administration system, it was discontinued in 1802.",
+        "answer": "It aimed to split political and financial responsibilities but failed due to poor cooperation between the governor and company officials.",
+        "references": {
+            "sections": [
+                "Governance of the Coastal Areas under the East Indian Trade Company"
+            ],
+            "pages": [
+                "25",
+                "26"
+            ]
+        }
+    },
+    {
+        "query_id": "24",
+        "question": "What were the ‘Five Great Debates’ and why are they significant in the Buddhist renaissance?",
+        "context": "Five such debates are termed as ‘Five Great Debates’. Among them, the Panadura debate which was held in 1873 attracted attention of the whole world and inspired Sir Henry Steel Olcott to come to Sri Lanka.",
+        "answer": "They were key public debates defending Buddhism; the Panadura debate notably attracted global attention and led to Olcott’s arrival.",
+        "references": {
+            "sections": [
+                "3.2 Engagement in Public Debates"
+            ],
+            "pages": [
+                "44",
+                "45"
+            ]
+        }
+    },
+    {
+        "query_id": "27",
+        "question": "How did the Buddhist renaissance contribute to rising nationalism and patriotism in Sri Lanka?",
+        "context": "The Buddhist renaissance encouraged leaders like Anagarika Dharmapala and Piyadasa Sirisena whose writings inspired national pride and patriotism. Philanthropists supported Buddhist education through schools like Ananda, Dharmaraja, and Mahinda.",
+        "answer": "It promoted cultural pride and national consciousness through education, literature, and restoration of heritage sites.",
+        "references": {
+            "sections": [
+                "3.2 Movements to upgrade Patriotism and Nationalism"
+            ],
+            "pages": [
+                "46",
+                "47"
+            ]
+        }
+    },
+    {
+        "query_id": "34",
+        "question": "What were the main demands of the Sri Lankan middle class in the early 20th century?",
+        "context": "Several of the major demands made by the Sri Lankans are given below:\n- Increasing the number of unofficial members in the legislative council.\n- Abolishing the national representation system and implementing the provincial representation system.\n- Increasing the powers of the legislative committee.",
+        "answer": "They demanded more unofficial members, an end to the nationalist representative system, a provincial representative system, and greater legislative power.",
+        "references": {
+            "sections": [
+                "The 1910 Reforms and their Background"
+            ],
+            "pages": [
+                "55"
+            ]
+        }
+    },
+    {
+        "query_id": "44",
+        "question": "What led to the emergence of a new middle class in Sri Lanka during the British colonial period?",
+        "context": "A significant social change during British rule was the emergence of a new middle class... This class consisted of professionals such as doctors, lawyers, engineers, businessmen and teachers... They secured higher social and economic status due to English education and new job opportunities.",
+        "answer": "Economic liberalization and English education created a wealthy, professional class replacing traditional elites and forming a new middle class.",
+        "references": {
+            "sections": [
+                "Emergence of a Middle Class"
+            ],
+            "pages": [
+                "74",
+                "75",
+                "76"
+            ]
+        }
+    },
+    {
+        "query_id": "54",
+        "question": "What were the significant reforms introduced in the 1972 Constitution of Sri Lanka?",
+        "context": "The 1972 Constitution declared Sri Lanka a republic, removed the Queen, formed a National State Council, and emphasized fundamental rights such as freedom of religion, speech, and peaceful assembly.",
+        "answer": "The 1972 Constitution made Sri Lanka a republic, replaced the Queen with a nominal president, established the National State Council, expanded judicial structure, and recognized basic human rights.",
+        "references": {
+            "sections": [
+                "Sri Lanka becoming a Republic in 1972"
+            ],
+            "pages": [
+                "86",
+                "87",
+                "88"
+            ]
+        }
+    },
+    {
+        "query_id": "65",
+        "question": "What role did the Estates General Council play in the outbreak of the French Revolution?",
+        "context": "The king had to summon the council called, States General Council... The Third Estate left the council and formed a separate group to prepare a new constitution. They swore to stay together until a new constitution was prepared—this is called the Tennis Court Oath.",
+        "answer": "Its failure to represent commoners fairly led to the formation of the National Bureau and the start of revolutionary action.",
+        "references": {
+            "sections": [
+                "The Revolution"
+            ],
+            "pages": [
+                "119"
+            ]
+        }
+    },
+    {
+        "query_id": "76",
+        "question": "What role did Mussolini play in the lead-up to World War II?",
+        "context": "Mussolini captured political power through the Fascist Party in 1922. He gathered all internal powers and later started spreading Italy's power internationally. Mussolini attempted to build an empire and aligned with Hitler during World War II.",
+        "answer": "Mussolini exploited Italy's instability to rise to power and pursued imperialist ambitions, aligning with Hitler and contributing to World War II.",
+        "references": {
+            "sections": [
+                "8.3 World War II"
+            ],
+            "pages": [
+                "139"
+            ]
+        }
+    }
+]

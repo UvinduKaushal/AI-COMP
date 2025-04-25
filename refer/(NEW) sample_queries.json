@@ -1,0 +1,72 @@
+[
+    {
+        "query_id": "1",
+        "question": "When did the Colombo–Kandy train service first start?",
+        "context": "In August 1867, a train service was started from Colombo to Kandy for the first time. After that it was extended from Peradeniya to Nawalapitiya in 1871 and up to Bandarawela in 1899.",
+        "answer": "The Colombo–Kandy train service first began in August 1867.",
+        "references": {
+            "sections": [
+                "1.3 Effects of the Industrial Revolution on Sri Lanka"
+            ],
+            "pages": [
+                "17"
+            ]
+        }
+    },
+    {
+        "query_id": "2",
+        "question": "How many members did the Legislative Council consist of under the Crew–McCallum Constitution?",
+        "context": "This constitution which came into effect from 1912 had increased the number of legislative council members to 21. Out of them, 11 were official members and 10 were unofficial members. Out of the 10 unofficial members, 06 were nominated according to the nationalist representative system. The other 04 were appointed selecting 02 for Europeans, 01 for Burgers and 01 for educated Sri Lankans on the basis of limited franchise.",
+        "answer": "Under the Crew–McCallum Constitution the Legislative Council comprised 21 members in total: 11 official members and 10 unofficial members (of which 6 were nominated via the nationalist representative system and 4 appointed—2 Europeans, 1 Burger, 1 educated Sri Lankan).",
+        "references": {
+            "sections": [
+                "4.2 The 1910 Reforms and their Background"
+            ],
+            "pages": [
+                "56"
+            ]
+        }
+    },
+    {
+        "query_id": "3",
+        "question": "Explain how missionary organizations used the written and educational mediums to foster religious renaissance in Sri Lanka.",
+        "context": "The missionary organizations that came to Sri Lanka possessed funds and organizational ability to establish publishers for printing of books and magazines. The missionary priests studied the native languages such as Sinhalese and Tamil to overcome a major problem they had, i. e. inability to use native languages. Later,they started to translate the Bible into Sinhalese and print and distribute books, newspapers and magazines.",
+        "answer": "Missionary societies combined in‑person work with mass‑media outreach: they preached in homes and temples, translated and distributed the Bible in Sinhala, and then launched print campaigns—newspapers and periodicals such as Masika Thegga (1832), Lanka Nidhanaya (1840), and Uragala (1842)—to spread Christian teachings more widely.",
+        "references": {
+            "sections": [
+                "3.1 Activities of Missionary Organizations"
+            ],
+            "pages": [
+                "42"
+            ]
+        }
+    },
+    {
+        "query_id": "4",
+        "question": "Describe the main causes and outcomes of the Struggle for Independence in 1848 in Sri Lanka.",
+        "context": "In about 30 years following the failure of the 1818 struggle, there was another battle against the British government. This struggle which tried for the second time to reestablish the imperial system the upcountry people used to have, can be named as the second armed battle for the independence. There were several reasons that led to the emergence of such a battle which began in 1848",
+        "answer": "The 1848 uprising was triggered by Kandyan resentment of post‑Colebrooke land‑and‑tax reforms, loss of traditional village councils (Gamsabha), and new cash levies. Though insurgents briefly seized mountain strongholds, Governor Torrington’s troops crushed the revolt by November 1848, executing ringleaders and enforcing stricter colonial rule.",
+        "references": {
+            "sections": [
+                "2.4.  Protests against Foreign Domination"
+            ],
+            "pages": [
+                "37"
+            ]
+        }
+    },
+    {
+        "query_id": "5",
+        "question": "How did the Soulbury Constitution structure Sri Lanka’s executive and judiciary institutions after independence?",
+        "context": "The Soulbury constitution came into action after the Donoughmore constitution that functioned from 1931–1947. It lasted till the Republican constitution of 1972 came into action. The Soulbury constitution introduced four institutions for the functioning of the government as, the governor general and the cabinet of ministers headed by the prime minister, the parliament and the judiciary.",
+        "answer": "The Soulbury Constitution established four pillars: a Governor‑General (Britain’s Crown representative) with a Cabinet led by the Prime Minister; a bicameral Parliament (Senate and House of Representatives); and an independent Judiciary headed by the Supreme Court, with judges appointed by the Governor‑General on ministerial advice.",
+        "references": {
+            "sections": [
+                " 6.1  Soulbury Reforms and Independence"
+            ],
+            "pages": [
+                "81"
+            ]
+        }
+    }
+]
